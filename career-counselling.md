@@ -1,19 +1,17 @@
 # Career Counselling
 
 ## 📁 Evidence
-- Description or screenshots of career counselling activities or reports.
-- Include links or uploads of documents, charts, or summaries.
+For the career path what I have done I have taken a different path, I started with career development. I did a career development assessment on blackboard on the 07/02/2025 and I scored a 100/100 for this assessment. I then went job seeking on LinkedIn and got rejected on five jobs. I have now set an appointment with the student counselling. 
 
 ## 🪞 Reflection (STAR)
 
 **Situation:**  
-_Describe the context or background of the career counselling experience._
-
+After I was rejected 5 times my confidence fell
 **Task:**  
-_What was your objective or challenge?_
+I wanted to boost my confidence in the settion
 
 **Action:**  
-_What specific steps did you take during this process?_
+I am still waiting for a response from the CPUT counselling committee.
 
 **Result:**  
-_What was the outcome, and how did it impact your career planning?_
+I am still waiting for a response from the CPUT counselling committee.

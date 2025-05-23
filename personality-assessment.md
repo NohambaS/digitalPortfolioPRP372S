@@ -1,18 +1,18 @@
 # Personality Assessment
 
 ## 📁 Evidence
-- Include personality test results, charts, or interpretation notes.
+The screenshot is in the repo.
 
 ## 🪞 Reflection (STAR)
 
 **Situation:**  
-_What context or situation led you to do this assessment?_
+I was tasked at school to assess my personality
 
 **Task:**  
-_What were you hoping to understand about yourself?_
+I wanted to find out what type of person I am
 
 **Action:**  
-_Describe the process you followed to complete and interpret the assessment._
+I did an blackboard assessment and I got 100/100
 
 **Result:**  
-_What insights did you gain, and how will they help guide your future?_
+I learned a lot about me and will help me better develop my self in the future

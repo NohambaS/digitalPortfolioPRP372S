@@ -1,19 +1,18 @@
 # Skills and Interests
+Evidence
+For the skills and interests, I did an assessment on blackboard on the 14/02/2025 at 17:35 and I scored a 100/100 for this assessment. The picture is in the repo.
 
-## 📁 Evidence
-- Include personality tests, skills assessment screenshots, or diagrams.
-- Visual aids like charts or tables are encouraged.
 
 ## 🪞 Reflection (STAR)
 
 **Situation:**  
-_Explain how you identified or assessed your skills and interests._
+I identified my skills and interests by doing a assessment which was on blackboard.
 
 **Task:**  
-_What were you aiming to discover or develop?_
+I wanted to discover my skills and interests
 
 **Action:**  
-_What did you do to explore your skills and interests?_
+I wrote an assessment
 
 **Result:**  
-_What did you learn, and how will it influence your career or learning path?_
+I saw that I was able to discover my skills and interests

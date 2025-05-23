@@ -1,19 +1,18 @@
 # Create a CV
 
 ## 📁 Evidence
-- Draft CV in PDF or Markdown format.
-- Screenshot of design/structure or notes on formatting.
+The evidence is in the repo
 
 ## 🪞 Reflection (STAR)
 
 **Situation:**  
-_Why did you need to create or update your CV?_
+The was a task at school where we had to create our cvs
 
 **Task:**  
-_What elements or information were important to include?_
+I had to include all personal details and qualifications and supporting documents.
 
 **Action:**  
-_How did you go about writing and formatting your CV?_
+I followed a tutorial which was on GitHub
 
 **Result:**  
-_What feedback did you receive, and what improvements did you make?_
+I received a 100/100 for the tutorial.
